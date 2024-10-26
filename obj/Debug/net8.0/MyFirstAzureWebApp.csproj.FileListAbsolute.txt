@@ -28,3 +28,4 @@
 /Users/mikezink/Projects/MyFirstAzureWebApp/obj/Debug/net8.0/MyFirstAzureWebApp.pdb
 /Users/mikezink/Projects/MyFirstAzureWebApp/obj/Debug/net8.0/MyFirstAzureWebApp.genruntimeconfig.cache
 /Users/mikezink/Projects/MyFirstAzureWebApp/obj/Debug/net8.0/ref/MyFirstAzureWebApp.dll
+/Users/mikezink/Projects/MyFirstAzureWebApp/obj/Debug/net8.0/MyFirstAzureWebApp.sourcelink.json
