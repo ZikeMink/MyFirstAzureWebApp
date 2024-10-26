@@ -1,0 +1,7 @@
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/MyFirstAzureWebApp
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/appsettings.json
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/MyFirstAzureWebApp.dll
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/MyFirstAzureWebApp.deps.json
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/MyFirstAzureWebApp.runtimeconfig.json
+/Users/mikezink/Projects/MyFirstAzureWebApp/bin/Release/net8.0/publish/MyFirstAzureWebApp.pdb
